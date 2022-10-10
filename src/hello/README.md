@@ -2,6 +2,7 @@
 examples of random numbers related to hello
 
 + [hello_world_random_times](hello_world_random_times.ipynb)
++ [hello_hey_hi_howdy](hello_hey_hi_howdy.ipynb)
 + [hello_world_letters_random_length](hello_world_letters_random_length.ipynb)
 + [hello_random_times_in_a_line](hello_random_times_in_a_line.ipynb)
 + [hello_random_number](hello_random_number.ipynb)
