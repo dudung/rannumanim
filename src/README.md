@@ -2,5 +2,5 @@
 jupyter notebook code
 
 
-## folders
-+ [hello (10)](hello)
+## examples
++ [hello](hello) (10)
