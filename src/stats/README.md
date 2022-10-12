@@ -2,6 +2,6 @@
 examples of random numbers in statistics
 
 
-## examples (11)
+## examples (13)
 + [simple](simple/README.md) (10)
-+ [dist](dist/README.md) (1)
++ [pdf](pdf/README.md) (1)
