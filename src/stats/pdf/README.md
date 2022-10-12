@@ -1,4 +1,4 @@
-# stats/dist
+# stats/pdf
 examples of random numbers distribution in statistics
 
 
