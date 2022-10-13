@@ -2,8 +2,8 @@
 jupyter notebook code
 
 
-## examples (29)
+## examples (32)
 + [hello](hello/README.md) (10)
 + [stats](stats/README.md) (13)
 + [misc](misc/README.md) (2)
-+ [graph](graph/README.md) (4)
++ [graph](graph/README.md) (7)
