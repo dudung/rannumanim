@@ -3,4 +3,5 @@ examples of random numbers in graphics
 
 
 ## examples (1)
-+ [misc_hindex](misc_hindex.ipynb)
++ [random_points](random_points.ipynb)
++ [random_roots_quadratic_curve](random_roots_quadratic_curve.ipynb)
